@@ -1,0 +1,10 @@
+D:\Code\GitHub\CatchUnderCover\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Code\GitHub\CatchUnderCover\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Code\GitHub\CatchUnderCover\Temp\bin\Debug\UnityEditor.dll
+D:\Code\GitHub\CatchUnderCover\Temp\bin\Debug\UnityEngine.dll
+D:\Code\GitHub\CatchUnderCover\Temp\bin\Debug\Mono.Cecil.dll
+D:\Code\GitHub\CatchUnderCover\Temp\bin\Debug\nunit.framework.dll
+D:\Code\GitHub\CatchUnderCover\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Code\GitHub\CatchUnderCover\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Code\GitHub\CatchUnderCover\obj\Debug\Assembly-CSharp.dll
+D:\Code\GitHub\CatchUnderCover\obj\Debug\Assembly-CSharp.pdb
